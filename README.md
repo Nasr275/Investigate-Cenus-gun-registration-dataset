@@ -1,4 +1,4 @@
-# Ivestigate-Cenus-gun-registration-dataset
+# Investigate-Cenus-gun-registration-dataset
 This project asses and cleans a Gun regisration data of the US 50 sates 
 After the cleaning process we visualized the data we need to answer a couple of questsions 
 1) what is the most common type of gun purshased in 2016 ?
